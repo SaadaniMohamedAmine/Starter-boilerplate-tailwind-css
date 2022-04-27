@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.btn {
+    @apply bg-yellow-400 px-4 ml-2 rounded text-white hover:bg-yellow-200 hover:text-zinc-700 transition ease-in duration-700 
+}
